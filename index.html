@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XV Años - 29 de Noviembre 2025</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .invitation-card {
+            background: white;
+            max-width: 600px;
+            width: 100%;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            animation: fadeIn 1s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-family: 'Brush Script MT', cursive;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .pending-info {
+            background: #fff9e6;
+            border-left: 4px solid #ffc107;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 5px;
+        }
+
+        .pending-info h3 {
+            color: #f57c00;
+            margin-bottom: 10px;
+        }
+
+        .pending-info ul {
+            margin-left: 20px;
+            color: #666;
+        }
+
+        .pending-info li {
+            margin: 8px 0;
+        }
+
+        .pending-info .contact {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #ffc107;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .content {
+            padding: 40px 30px;
+        }
+
+        .section {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .section h2 {
+            color: #764ba2;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #667eea;
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+
+        .section p {
+            color: #555;
+            line-height: 1.8;
+            font-size: 1.1em;
+        }
+
+        .date-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+
+        .date-box .day {
+            font-size: 3em;
+            font-weight: bold;
+        }
+
+        .date-box .month {
+            font-size: 1.5em;
+        }
+
+        .event-details {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 15px 0;
+            border-left: 4px solid #667eea;
+        }
+
+        .event-details h3 {
+            color: #764ba2;
+            margin-bottom: 10px;
+        }
+
+        .event-details p {
+            color: #666;
+            margin: 5px 0;
+        }
+
+        .event-details .pending {
+            color: #f57c00;
+            font-style: italic;
+            font-weight: bold;
+        }
+
+        .map-button {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            margin-top: 10px;
+            transition: all 0.3s;
+        }
+
+        .map-button:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .map-button.disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+
+        .footer {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            color: #666;
+            font-style: italic;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 2em;
+            }
+
+            .date-box .day {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="invitation-card">
+        <div class="header">
+            <h1>Mis XV Años</h1>
+            <p>[Nombre de la Quinceañera]</p>
+        </div>
+
+        <div class="pending-info">
+            <h3>⚠️ Información Pendiente</h3>
+            <p>Por favor envía los siguientes datos a WhatsApp:</p>
+            <ul>
+                <li>Nombre completo de la quinceañera</li>
+                <li>Hora de la ceremonia religiosa</li>
+                <li>Nombre y ubicación de la iglesia</li>
+                <li>Dirección exacta o Google Maps de Quinta Palomares</li>
+                <li>Hora de inicio de la recepción</li>
+            </ul>
+            <div class="contact">
+                📱 WhatsApp: <a href="https://wa.me/524779203776" style="color: #667eea;">477 920 3776</a>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <h2>¡Estás Invitado!</h2>
+                <p>Con la bendición de Dios y el amor de mi familia, tengo el honor de invitarte a celebrar mis quince años.</p>
+            </div>
+
+            <div class="date-box">
+                <div class="day">29</div>
+                <div class="month">Noviembre 2025</div>
+            </div>
+
+            <div class="event-details">
+                <h3>🙏 Ceremonia Religiosa</h3>
+                <p><strong>Hora:</strong> <span class="pending">[Pendiente]</span></p>
+                <p><strong>Lugar:</strong> <span class="pending">[Iglesia por confirmar]</span></p>
+                <p style="font-size: 0.9em; margin-top: 10px;"><span class="pending">⚠️ Dirección pendiente</span></p>
+            </div>
+
+            <div class="event-details">
+                <h3>🎉 Recepción</h3>
+                <p><strong>Hora:</strong> <span class="pending">[Por confirmar]</span></p>
+                <p><strong>Lugar:</strong> Quinta Palomares</p>
+                <p style="font-size: 0.9em;">Lagunillas, León, Gto.</p>
+                <span class="map-button disabled">📍 Ubicación pendiente</span>
+            </div>
+
+            <div class="section">
+                <h2>Código de Vestimenta</h2>
+                <p>Formal / Elegante</p>
+            </div>
+
+            <div class="section">
+                <p style="font-size: 0.9em; color: #999;">
+                    Tu presencia es el mejor regalo, pero si deseas obsequiarme algo,
+                    una aportación económica será muy apreciada.
+                </p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>¡Espero contar con tu presencia en este día tan especial!</p>
+        </div>
+    </div>
+</body>
+</html>
