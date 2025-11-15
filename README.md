@@ -1,15 +1,6 @@
-# XV Años - 29 de Noviembre 2025
+# XV Años - Mariana y Areli
 
-Sitio web para XV años
-
-## ⚠️ INFORMACIÓN PENDIENTE
-
-**Por favor envía a WhatsApp 477 920 3776:**
-- Nombre completo de la quinceañera
-- Hora de la ceremonia religiosa
-- Nombre y ubicación de la iglesia
-- Dirección exacta o Google Maps de Quinta Palomares
-- Hora de inicio de la recepción
+Sitio web para XV años de Mariana y Areli
 
 ## Fecha del Evento
 **Sábado, 29 de Noviembre de 2025**
@@ -27,8 +18,9 @@ Detalles del cronograma y logística del evento
 
 ## Información del Evento
 
-- **Ceremonia Religiosa:** [Hora pendiente] - [Iglesia por confirmar]
-- **Recepción:** [Hora pendiente] - Quinta Palomares, Lagunillas, León, Gto.
+- **Quinceañeras:** Mariana y Areli
+- **Ceremonia Religiosa:** 2:00 PM - Colegio Juan Bautista de La Salle, León, Gto.
+- **Recepción:** 5:00 PM - Quinta Palomares, Lagunillas, León, Gto.
 
 ## Servicios Contratados
 
