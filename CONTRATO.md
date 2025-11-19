@@ -11,23 +11,27 @@
 
 ## Detalles del Evento
 
-### Sesión Fotográfica Previa
-
-**Ubicación:** Forum Cultural Guanajuato
-**Dirección:** Prol. C. Calz. de los Heroes 908, La Martinica, 37500 León de los Aldama, Gto.
-**Google Maps:** https://maps.app.goo.gl/sNnizA23xuZBSToM8
-
 ### Día del Evento - 29 de Noviembre
 
 **Misa:** 2:00 PM
-**Lugar:** Colegio Juan Bautista de La Salle, León, Gto.
+**Lugar:** Parroquia San Juan Bautista de La Salle
 **Dirección:** Iztaccihuatl 2113, Piletas IV, 37316 León de los Aldama, Gto.
 **Google Maps:** https://maps.app.goo.gl/5po8ixbnKtZt7njq6
 
-**Recepción:** 5:00 PM
+**Sesión Fotográfica:** 3:15 PM - 5:30 PM
+**Lugar:** Glorieta del Molino
+**Dirección:** 37138 León de los Aldama, Gto.
+**Google Maps:** https://maps.app.goo.gl/SVnzhCdAb4kxKHqV7
+**Nota:** Sesión con chambelanes y damas. Incluye tomas especiales en escaleras.
+
+**Recepción:** 6:00 PM
 **Lugar:** Quinta Palomares
 **Dirección:** San Felipe 122-Km 15.5, 37660 Lagunillas, Gto.
 **Google Maps:** https://maps.app.goo.gl/Eu3RaPNd8S6jCDrq7
+
+**Traslados en Partybus:** 3 horas contratadas (3:00 PM - 6:00 PM)
+- Templo → Molino: https://maps.app.goo.gl/Jsrhadb9RWWMKEvWA
+- Molino → Quinta Palomares: https://maps.app.goo.gl/bh3vaNKiT8NjLxr76
 
 ---
 
@@ -37,15 +41,15 @@
 
 ### Servicios Incluidos:
 
-✅ Cobertura fotográfica y video: Sesión previa, misa y 5 horas de fiesta
+✅ Cobertura fotográfica y video: Misa, sesión fotográfica en el molino y 5 horas de fiesta
 ✅ 100 Fotos del evento impresas en tamaño 5x7 pulgadas
 ✅ 1 Película USB en 4K con duración de 3:00 hrs editada, musicalizada y titulada
-✅ 1 Videoclip para proyectar en el salón de la sesión previa y fotos del recuerdo
+✅ 1 Videoclip para proyectar en el salón de la sesión y fotos del recuerdo
 ✅ 1 Caja impresa para la USB
 ✅ 1 Foto ampliada a tamaño 40x50 cm con marco
 ✅ 1 Caja impresa para las fotografías
-✅ 1 Sesión fotográfica antes del evento
-✅ **Servicio de DRON incluido** (sesión previa y día del evento)
+✅ 1 Sesión fotográfica entre misa y fiesta (Glorieta del Molino)
+✅ **Servicio de DRON incluido** (día del evento)
 ✅ Entrega digital completa de todo el material fotográfico
 
 ---
