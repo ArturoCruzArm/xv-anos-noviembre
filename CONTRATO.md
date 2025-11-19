@@ -55,7 +55,8 @@
 | Concepto | Fecha | Monto | Estado |
 |----------|-------|-------|--------|
 | Anticipo (50%) | 19 de octubre de 2025 | $3,000 | ✓ Pagado |
-| Liquidación Final | 21 de noviembre de 2025 | $3,500 | Pendiente |
+| Abono | 18 de noviembre de 2025 | $2,000 | ✓ Pagado |
+| Saldo Final | Antes del 29 de noviembre de 2025 | $1,500 | Pendiente |
 | **TOTAL** | | **$6,500** | |
 
 ---
@@ -64,7 +65,7 @@
 
 **1. COMPROMISO DEL PRESTADOR:** El prestador se compromete a cubrir el evento en las fechas y horarios acordados con equipo profesional y personal capacitado.
 
-**2. CONDICIONES DE PAGO:** El saldo final de $3,500.00 pesos deberá ser liquidado 8 días antes del evento, es decir, el 21 de noviembre de 2025. El incumplimiento de esta fecha podría resultar en la cancelación del servicio sin reembolso de anticipos.
+**2. CONDICIONES DE PAGO:** El saldo final de $1,500.00 pesos deberá ser liquidado antes del evento (29 de noviembre de 2025). Se ha recibido un abono de $2,000 pesos el 18 de noviembre de 2025.
 
 **3. ENTREGA:** El material editado será entregado en formato digital en un plazo no mayor a 30 días después del evento.
 
